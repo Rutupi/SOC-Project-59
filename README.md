@@ -13,3 +13,14 @@ Then learnt about the yfinance library and application of supervised learning to
 Solved a follow on assignment for the same containing real life application for linear regression model, logistic regression model and yfinance implementation.
 
 The course flow has taught me the real life implementation of machine learning and how to intergrate finance with it to achieve algo trading.
+
+In the 5th week, I learned about the Neutral Networks architecture and general working of it. Followed by Convolutional Neutral network, various terminologies related to it.
+followed by was the Pytorch implementation for the Neutral network and CNN architecture working on MNIST dataset for handwritten digit recognition uisng CNN.
+
+In the 6th week, I laerned about the RNN ie. the Recurrent nureal network, followed LSTM theory including the importance of various gates including the input gate, forget gate and the output gate and there functioning.
+Following it contained a basic implementation of the tensorflow library for the LSTM model.
+
+In the 7th week, we were assigned with a project of building a LSTM model on the stock inputs provided by the user and downloaded using the yfinance library.
+Following I also visualized and analysed the graph using the matplotlib and seaborn library and using various technical indicators like MACD, bollingers band etc.
+I then used R2, MSSE to calucate the accuracy and efficience of the model.
+I have attach a folder containing jupyter notebook file and the readMe file explaining my each step analysis.
