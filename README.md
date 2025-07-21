@@ -16,6 +16,7 @@ The course flow has taught me the real life implementation of machine learning a
 
 In the 5th week, I learned about the Neutral Networks architecture and general working of it. Followed by Convolutional Neutral network, various terminologies related to it.
 followed by was the Pytorch implementation for the Neutral network and CNN architecture working on MNIST dataset for handwritten digit recognition uisng CNN.
+I have also included the Attached the notebook of my assignment of this handwritten digit recognition.
 
 In the 6th week, I laerned about the RNN ie. the Recurrent nureal network, followed LSTM theory including the importance of various gates including the input gate, forget gate and the output gate and there functioning.
 Following it contained a basic implementation of the tensorflow library for the LSTM model.
